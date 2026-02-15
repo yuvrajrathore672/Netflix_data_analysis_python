@@ -35,7 +35,6 @@ The dataset used in this analysis contains details about Netflix shows, includin
 The project includes multiple plots:
 - Bar charts
 - Heatmaps
-- Word clouds (if applicable)
 - Line plots for trend analysis
 
 ##  Data Cleaning
@@ -49,6 +48,3 @@ This project demonstrates strong proficiency in Python for data analysis, storyt
 - Sentiment analysis on descriptions
 - Genre clustering
 - Time-series analysis of user ratings
-
----
-
